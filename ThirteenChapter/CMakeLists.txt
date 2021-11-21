@@ -1,0 +1,1 @@
+add_library(StrVec SHARED StrVec.cpp)

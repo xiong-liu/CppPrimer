@@ -3,4 +3,6 @@ project(CppPrimer)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CppPrimer main.cpp)
+add_subdirectory(ThirteenChapter)
+
+add_executable(main main.cpp)
